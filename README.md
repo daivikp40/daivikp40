@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daivik Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 - 🔭 I’m currently working on [Final-expense-tracker](https://github.com/daivikp40/Final-expense-tracker.git)
 
-- 🌱 I’m currently learning **Javascript,Node js,Mysql**
+<h2 aling="center">- 🌱 I’m currently learning **Javascript,Node js,Mysql**</h2>
 
-- 📫 How to reach me **daivikp40@gmail.com**
+<h2 aling="center">- 📫 How to reach me **daivikp40@gmail.com**</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
