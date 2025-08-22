@@ -8,9 +8,12 @@
 <h2 aling="center">- 📫 How to reach me **daivikp40@gmail.com**</h2>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/daivik-patel-0b933836b" target="_blank">
-  <img src="https://img.shields.io/badge/-?logo=linkedin&logoColor=white&label=&color=0A66C2&style=for-the-badge" alt="LinkedIn" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daivik-patel-0b933836b">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
