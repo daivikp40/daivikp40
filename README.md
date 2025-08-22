@@ -17,12 +17,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daivikp40&show_icons=true&locale=en" alt="daivikp40" /></p>
 
-<a href="https://www.credly.com/badges/d8be840b-e485-472a-b6e0-956f6413cae4/public_url">
-  <img src="https://images.credly.com/size/340x340/d8be840b-e485-472a-b6e0-956f6413cae4.png" width="200" alt="Prompt Design in Vertex AI Skill Badge">
-</a>
-## Certifications
+
 
 | Badge |
 |------|
 | [<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25DOPOCP.png" alt="OCI 2025 Certified DevOps Professional" width="180">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A60CF501C38204C21F9A98B3601E68CC4406DE85507134CA8CE4017DF72EBBD7) |
+|[<img src="https://images.credly.com/size/340x340/d8be840b-e485-472a-b6e0-956f6413cae4.png" width="200" alt="Prompt Design in Vertex AI Skill Badge">]|
 
