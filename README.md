@@ -17,7 +17,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daivikp40&show_icons=true&locale=en" alt="daivikp40" /></p>
 
-[![Prompt Design in Vertex AI Skill Badge](https://images.credly.com/size/340x340/d8be840b-e485-472a-b6e0-956f6413cae4.png)](https://www.credly.com/badges/d8be840b-e485-472a-b6e0-956f6413cae4/public_url)
+<a href="https://www.credly.com/badges/d8be840b-e485-472a-b6e0-956f6413cae4/public_url">
+  <img src="https://images.credly.com/size/340x340/d8be840b-e485-472a-b6e0-956f6413cae4.png" width="200" alt="Prompt Design in Vertex AI Skill Badge">
+</a>
 ## Certifications
 
 | Badge |
