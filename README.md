@@ -26,23 +26,6 @@
     <img src="https://images.credly.com/size/180x180/d8be840b-e485-472a-b6e0-956f6413cae4.png" alt="Prompt Design in Vertex AI Skill Badge"/>
   </a>
 </p>
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/daivik-patel-0b933836b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <!-- Oracle DevOps Certification -->
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=YOUR-ORACLE-BADGE-ID">
-    <img src="https://images.credly.com/size/120x120/YOUR-ORACLE-BADGE-IMAGE.png" alt="Oracle Cloud Infrastructure 2025 Certified DevOps Professional"/>
-  </a>
-
-  <!-- Prompt Design in Vertex AI Skill Badge -->
-  <a href="https://www.credly.com/badges/d8be840b-e485-472a-b6e0-956f6413cae4/public_url">
-    <img src="https://images.credly.com/size/120x120/d8be840b-e485-472a-b6e0-956f6413cae4.png" alt="Prompt Design in Vertex AI Skill Badge"/>
-  </a>
-</p>
-
 
 | Badge |
 |------|
