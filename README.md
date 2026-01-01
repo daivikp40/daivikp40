@@ -2,6 +2,10 @@
 <h3 align="center">A passionate backend developer from India</h3>
 
 - 🔭 I’m currently working on GearGuard - Maintenance Management System (CMMS)
+- 🚀 Live Demo
+Frontend: https://gearguard-eta.vercel.app
+Backend: Hosted on Render
+Database: MongoDB Atlas
 
 <h2 aling="center">- 🌱 I’m currently learning **Javascript,Node js,Mysql**</h2>
 
