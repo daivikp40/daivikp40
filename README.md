@@ -31,5 +31,6 @@ Database: MongoDB Atlas
 
 | Badge |
 |------|
+[![Oracle OCI DevOps](https://img.shields.io/badge/Oracle-OCI_DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A60CF501C38204C21F9A98B3601E68CC4406DE85507134CA8CE4017DF72EBBD7)
 
 
