@@ -26,7 +26,6 @@ Database: MongoDB Atlas
 
 <p align="center">
   <a href="https://www.credly.com/badges/d8be840b-e485-472a-b6e0-956f6413cae4/public_url">
-    <img src="https://images.credly.com/size/180x180/d8be840b-e485-472a-b6e0-956f6413cae4.png" alt="Prompt Design in Vertex AI Skill Badge"/>
   </a>
 </p>
 
