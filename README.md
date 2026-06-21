@@ -1,34 +1,48 @@
 <h1 align="center">Hi 👋, I'm Daivik Patel</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A Passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on GearGuard - Maintenance Management System (CMMS)
-- 🚀 Live Demo [Travel Bharat](https://travel-bharat-tau.vercel.app/)
-Backend: Hosted on Render
-Database: MongoDB Atlas
+### 🔭 Currently Working On
+- **GearGuard** - Maintenance Management System (CMMS)
+- **Travel Bharat** - Travel Discovery Platform
+- Cybersecurity & Network Analysis Projects
 
-<h2 aling="center">- 🌱 I’m currently learning  Javascript,Node.js,Mysql </h2>
+### 🌱 Currently Learning
+JavaScript, Node.js, MySQL
 
-<h2 aling="center">- 📫 How to reach me daivikp40@gmail.com </h2>
+### 🎓 Education
+LDIF Institute of Technology & Research, Gujarat
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/daivik-patel-0b933836b">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+### 📊 Projects
+| Project | Tech Stack | Status |
+|---------|-----------|--------|
+| [GearGuard](https://github.com/daivikp40/gearguard) | Node.js, MongoDB, Express | In Development |
+| [Travel Bharat](https://travel-bharat-tau.vercel.app/) | React, Node.js, MongoDB | Live ✅ |
+| [Intrusion Detection System](https://github.com/daivikp40/INTRUSION_DETECTION_SYSTEM) | Python, ML | Complete |
+| [Expense Tracker](https://github.com/daivikp40/expense-tracker) | React, Node.js | Complete |
 
+### 💻 Tech Stack
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🏆 Certifications
+[![Oracle OCI DevOps Professional](https://img.shields.io/badge/Oracle-OCI_DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.credly.com/badges/d8be840b-e485-472a-b6e0-956f6413cae4/public_url)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📫 Connect With Me
+- **Email:** daivikp40@gmail.com
+- **LinkedIn:** [Daivik Patel](https://www.linkedin.com/in/daivik-patel-0b933836b)
+- **GitHub:** [@daivikp40](https://github.com/daivikp40)
+- **Portfolio:** [View My Work](https://github.com/daivikp40/daivik_portfolio)
 
+---
 
-<p align="center">
-  <a href="https://www.credly.com/badges/d8be840b-e485-472a-b6e0-956f6413cae4/public_url">
-  </a>
-</p>
-
-| Badge |
-|------|
-[![Oracle OCI DevOps](https://img.shields.io/badge/Oracle-OCI_DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A60CF501C38204C21F9A98B3601E68CC4406DE85507134CA8CE4017DF72EBBD7)
-
+⭐ Feel free to fork, star, and contribute to my projects!
