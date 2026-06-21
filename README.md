@@ -3,7 +3,16 @@
 
 - 🔭 I’m currently working on GearGuard - Maintenance Management System (CMMS)
 - 🚀 Live Demo
-Frontend:[travel-bharat](https://travel-bharat-tau.vercel.app/)
+<button
+  onClick={() =>
+    window.open(
+      "https://travel-bharat-tau.vercel.app/",
+      "_blank"
+    )
+  }
+>
+  Open Website
+</button>
 Backend: Hosted on Render
 Database: MongoDB Atlas
 
