@@ -2,17 +2,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
 
 - 🔭 I’m currently working on GearGuard - Maintenance Management System (CMMS)
-- 🚀 Live Demo
-<button
-  onClick={() =>
-    window.open(
-      "https://travel-bharat-tau.vercel.app/",
-      "_blank"
-    )
-  }
->
-  Open Website
-</button>
+- 🚀 Live Demo [Travel Bharat](https://travel-bharat-tau.vercel.app/)
 Backend: Hosted on Render
 Database: MongoDB Atlas
 
